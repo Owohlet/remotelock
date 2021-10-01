@@ -1,0 +1,7 @@
+first_name % city % birthdate
+Norina % Port Harcourt % 1989-05-29
+Maldini % Enugu % 1990-05-04
+Chaso % Anambra % 1991-12-04
+Reuben % Gombe % 1990-07-02
+Chekwube % Ebonyi % 1992-08-12
+Pamela % Owerri % 1989-01-02

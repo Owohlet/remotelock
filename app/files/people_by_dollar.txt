@@ -1,0 +1,9 @@
+city $ birthdate $ last_name $ first_name
+LA $ 30-4-1989 $ Ugwu $ Emelie
+NYC $ 5-1-1988 $ Oko $ Kingsley
+LA $ 5-1-1990 $ Owoh $ Iyke
+NYC $ 5-1-1991 $ Swithin Nwuba $ Kaeto
+LA $ 5-1-1997 $ Olayemi $ Olamide
+NYC $ 5-1-1989 $ Dosunmu $ Olawale
+NYC $ 5-1-1988 $ Barikwu $ Emeka
+LA $ 5-1-1988 $ Dangman $ Emeka
